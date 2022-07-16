@@ -90,4 +90,6 @@ Existem algumas convenções, conhecidas mundialmente, para nomear as variáveis
 **Dicas:**. 
 Faça nomes de variáveis intuitivos que descrevam exatamente o dado/informação que ela contém. Não use letras ou números únicos, ou nomes longos demais.
 As variáveis são [CASE SENSITIVE](https://pt.wikipedia.org/wiki/Case-sensitive) e diferenciam letras maiúsculas e minúsculas — então `nome` é uma variável diferente de `Nome`.  
-Por último, mas não menos importante, não podemos utilizar as palavras reservadas pelo JavaScript como nome das nossas variáveis, ou seja, palavras que fazem parte da sintaxe do JavaScript como `const`, `undefined`, `function`, `let` e `while` não podem ser utilizados como nome de variáveis. ‼️
+Por último, mas não menos importante, não podemos utilizar as palavras reservadas pelo JavaScript como nome das nossas variáveis, ou seja, palavras que fazem parte da sintaxe do JavaScript como `const`, `undefined`, `function`, `let` e `while` não podem ser utilizados como nome de variáveis‼️ 😎
+
+Obs.: Sua contribuição é sempre bem vinda, por isso, se tiver alguma sugestão de melhoria e ou recomendação de ajuste/mudança das informações desse repositório, fique a vontade para abrir uma [ISSUE](https://github.com/Atanes-Trybe/JavaScript_Variaveis/issues) que ficarei muito feliz em receber suas sugestões, criticas e comentários!! 😊
